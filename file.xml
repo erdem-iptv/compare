@@ -88,7 +88,7 @@
   </item>
   <item>
     <Name>Switch on settings.Picture Settings.Colour</Name>
-    <Value>65</Value>
+    <Value>56</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -98,7 +98,7 @@
   </item>
   <item>
     <Name>Switch on settings.Picture Settings.Sharpness</Name>
-    <Value>5</Value>
+    <Value>4</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -118,7 +118,7 @@
   </item>
   <item>
     <Name>Switch on settings.Region And Language Settings.Languages.Menu Language</Name>
-    <Value>German</Value>
+    <Value>English</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -158,7 +158,7 @@
   </item>
   <item>
     <Name>Dashboard.Custom Settings.Server Settings.Fallback</Name>
-    <Value>On</Value>
+    <Value>Off</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -193,7 +193,7 @@
   </item>
   <item>
     <Name>Features.Weather App</Name>
-    <Value>Off</Value>
+    <Value>On</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -213,12 +213,12 @@
   </item>
   <item>
     <Name>Features.SmartInfo.Browser settings.Source</Name>
-    <Value>Server</Value>
+    <Value>Local</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
     <Name>Features.SmartInfo.Browser settings.Server URL</Name>
-    <Value>http://192.168.2.53:8082/nqrex/</Value>
+    <Value></Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -278,7 +278,7 @@
   </item>
   <item>
     <Name>Features.USB Auto Play</Name>
-    <Value>On</Value>
+    <Value>Off</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -458,7 +458,7 @@
   </item>
   <item>
     <Name>Sources.Advanced.EasyLink.EasyLink CDB behaviour</Name>
-    <Value>Break-in</Value>
+    <Value>null</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -518,7 +518,7 @@
   </item>
   <item>
     <Name>Wireless and Networks.Settings.Static IP Configuration.IP Address</Name>
-    <Value>10.1.1.146</Value>
+    <Value>10.1.1.153</Value>
     <CloneIn>No</CloneIn>
   </item>
   <item>
@@ -603,7 +603,7 @@
   </item>
   <item>
     <Name>Wireless and Networks.Features.Show Network Lost Message</Name>
-    <Value>Yes</Value>
+    <Value>No</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -663,7 +663,7 @@
   </item>
   <item>
     <Name>Advanced.Identification Settings.RoomID</Name>
-    <Value>00000</Value>
+    <Value>2211</Value>
     <CloneIn>No</CloneIn>
   </item>
   <item>
@@ -688,12 +688,12 @@
   </item>
   <item>
     <Name>Advanced.Power.Reboot Everyday</Name>
-    <Value>Off</Value>
+    <Value>On</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
     <Name>Advanced.Power.Auto Standby</Name>
-    <Value>Off</Value>
+    <Value>On</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -713,7 +713,7 @@
   </item>
   <item>
     <Name>Advanced.Input Control.USB Keyboard Settings.Primary Keyboard</Name>
-    <Value>keyboard_layout_german</Value>
+    <Value>null</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -753,7 +753,7 @@
   </item>
   <item>
     <Name>Advanced.UI.Display OSD</Name>
-    <Value>No</Value>
+    <Value>Yes</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -783,7 +783,7 @@
   </item>
   <item>
     <Name>Advanced.Diagnostics.Destination</Name>
-    <Value>USB</Value>
+    <Value>Internal</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -898,7 +898,7 @@
   </item>
   <item>
     <Name>Sound.Maximum Volume</Name>
-    <Value>60</Value>
+    <Value>33</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -913,12 +913,12 @@
   </item>
   <item>
     <Name>Sound.Sound Management.Bluetooth Audio</Name>
-    <Value>Off</Value>
+    <Value>On</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
     <Name>Sound.TV Placement</Name>
-    <Value>On the Wall</Value>
+    <Value>On a TV Stand</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -968,7 +968,7 @@
   </item>
   <item>
     <Name>Region and Language.Languages.Primary Audio</Name>
-    <Value>German</Value>
+    <Value>English</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -978,7 +978,7 @@
   </item>
   <item>
     <Name>Region and Language.Languages.Primary Subtitles</Name>
-    <Value>German</Value>
+    <Value>English</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
@@ -988,7 +988,7 @@
   </item>
   <item>
     <Name>Region and Language.Languages.Primary Text</Name>
-    <Value>German</Value>
+    <Value>English</Value>
     <CloneIn>Yes</CloneIn>
   </item>
   <item>
